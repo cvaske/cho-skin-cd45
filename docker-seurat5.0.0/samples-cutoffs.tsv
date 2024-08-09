@@ -1,0 +1,17 @@
+Sample	Case	Timepoint	Type	nFeature.min	nFeature.max	percent.mt.max	H5
+SPIRT1Pre-PBMC	SPIRT1	Pre	PBMC	750	3000	7	/data/downloads-cellranger7.1/SPIRT1pre/count/sample_filtered_feature_bc_matrix.h5
+SPIRT1Pre-Skin350	SPIRT1	Pre	Skin	750	4000	7	/data/downloads-cellranger7.1/Skin350/count/sample_filtered_feature_bc_matrix.h5
+SPIRT1Mid-PBMC	SPIRT1	Mid	PBMC	500	4500	7	/data/downloads-cellranger7.1/SPIRT1post/count/sample_filtered_feature_bc_matrix.h5
+SPIRT1Mid-Skin375	SPIRT1	Mid	Skin	1000	4000	7	/data/downloads-cellranger7.1/Skin374/count//sample_filtered_feature_bc_matrix.h5
+SPIRT2Pre-PBMC	SPIRT2	Pre	PBMC	500	4000	7	/data/downloads-cellranger7.1/SPIRT2pre/count/sample_filtered_feature_bc_matrix.h5
+SPIRT2Pre-Skin362	SPIRT2	Pre	Skin	750	3000	8	/data/downloads-cellranger7.1/Skin362/per_sample_outs/Skin362/count/sample_filtered_feature_bc_matrix.h5
+SPIRT2Mid-PBMC	SPIRT2	Mid	PBMC	1200	4000	7	/data/downloads-cellranger7.1/SPIRT2post/count/sample_filtered_feature_bc_matrix.h5
+SPIRT2Mid-Skin384	SPIRT2	Mid	Skin	1200	3000	7	/data/downloads-cellranger7.1/skin384/per_sample_outs/Skin_384/count/sample_filtered_feature_bc_matrix.h5
+SPIRT4Pre-PBMC	SPIRT4	Pre	PBMC	1000	3500	7	/data/downloads-cellranger7.1/SPIRT4pre/count/sample_filtered_feature_bc_matrix.h5
+SPIRT4Pre-Skin365	SPIRT4	Pre	Skin	500	2000	7	/data/downloads-cellranger7.1/Skin365/count/sample_filtered_feature_bc_matrix.h5
+SPIRT4Mid-PBMC	SPIRT4	Mid	PBMC	1500	4500	7	/data/downloads-cellranger7.1/SPIRT4post/count/sample_filtered_feature_bc_matrix.h5
+SPIRT4Mid-Skin396	SPIRT4	Mid	Skin	1200	3500	7	/data/downloads-cellranger7.1/Skin_396/count/sample_filtered_feature_bc_matrix.h5
+SPIRT5Pre-PBMC	SPIRT5	Pre	PBMC	1000	4000	7	/data/downloads-cellranger7.1/SPIRT5pre/count/sample_filtered_feature_bc_matrix.h5
+SPIRT5Pre-Skin336	SPIRT5	Pre	Skin	750	3500	7	/data/downloads-cellranger7.1/skin_336/count/sample_filtered_feature_bc_matrix.h5
+SPIRT5Mid-PBMC	SPIRT5	Mid	PBMC	1000	3500	7	/data/downloads-cellranger7.1/SPIRT5post/count/sample_filtered_feature_bc_matrix.h5
+SPIRT5Mid-Skin397	SPIRT5	Mid	Skin	1250	3750	7	/data/downloads-cellranger7.1/Skin_397/count/sample_filtered_feature_bc_matrix.h5
