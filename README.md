@@ -4,6 +4,19 @@ Some scripts and a dockerfile for performing 10x sample merging with
 the Harmony R package.
 
 
+## Files in this repository
+
+* `docker` - Dockerfiles for various run environments
+* `docker-seurat5.0.0` - runs of Harmony on Seurat 5.0.0
+  * `*.R` - scripts for generating the output directories stored on Box.com
+  * `*.tsv` - cutoffs and outputs used
+  * `*.ipynb` - notebooks used for interactive exploration of the data and code prototyping
+  
+Both the input HDF5 files and output plots/tables are kept out of git
+(due to size) via `.gitignore`. Check Box for those.
+
+TODO: make a full Snakemake or Nextflow workflow so this is more reproducible
+
 ## Running the environment
 
 The docker environment can be launched with:
