@@ -22,7 +22,7 @@ TODO: make a full Snakemake or Nextflow workflow so this is more reproducible
 The docker environment can be launched with:
 
 ```shell
-docker run -p 8888:8888 -v $PWD:/data -it --entrypoint --entrypoint /usr/local/bin/jupyter -v $PWD:/data cvaske/cho-skin-cd45:harmony-v1.2.0_0 lab --ip=0.0.0.0 --allow-root
+docker run -p 8888:8888 --oom-kill-disable --memory 12g -v $PWD:/data -it --entrypoint /usr/local/bin/jupyter -v $PWD:/data cvaske/cho-skin-cd45:harmony-v1.2.0_0 lab --ip=0.0.0.0 --allow-root
 ```
 
 and then open the URL that is pasted after Jupyter starts up.
